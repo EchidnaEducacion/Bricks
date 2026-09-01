@@ -14,10 +14,10 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 El objetivo es llegar a 10-15 proyectos
 
 # Piezas usadas
-El listado de piezas usadas en el proyecto es:
+El listado de piezas utilizadas en el proyecto es:
 
 # Electrónica
-La electrónica necesaria para deasarrollar el proyecto
+[Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores, cableaso.
 
 # Instrucciones de montaje
 Programas usados:
