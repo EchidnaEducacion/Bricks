@@ -1,13 +1,13 @@
 # PROYECTO ECHIDNA BRICKS
-Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar un kit que incluya bloques de construcción y sensores y atuadores
+Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar un kit que incluya bloques de construcción compatibles con LEGO y sensores y actuadores.
 
 # Listado de Proyectos
-1. [Gallo Despertador](./GalloDespertador)
-2. [Estatuas musicales](./EstatuasMusicales/)
-3. [Helicóptero acelerómetro](./HelicopteroAcelerometro/)
-4. [Barrera automática](./BarreraAutomatica/)
-5. [Coche Teledirigido](./CocheTeledirigido/)
-6. [Rotografo](./Rotografo/)
+1. [Gallo Despertador](./GalloDespertador/README.md)
+2. [Estatuas musicales](./EstatuasMusicales/README.md)
+3. [Helicóptero acelerómetro](./HelicopteroAcelerometro/README.md)
+4. [Barrera automática](./BarreraAutomatica/README.md)
+5. [Coche Teledirigido](./CocheTeledirigido/README.md)
+6. [Rotografo](./Rotografo/README.md)
 7. Puerta garaje
 8. Tendedero
 
@@ -17,11 +17,11 @@ El objetivo es llegar a 10-15 proyectos
 El listado de piezas utilizadas en el proyecto es:
 
 # Electrónica
-[Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores, cableaso.
+[Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores, cableado.
 
 # Instrucciones de montaje
 Programas usados:
-- [LeoCAD](https://www.leocad.org/) para el diseño.
+- [LeoCAD](https://www.leocad.org/) para generar el diseño CAD.
 - [LPub3D](https://trevorsandy.github.io/lpub3d/) para generar las instrucciones.
 
 Para realizar las instrucciones de montaje tenemos la siguiente guía
@@ -32,14 +32,16 @@ Cada uno de los proyectos queda documentado con la siguiente informaciçṕn:
 - Montaje.pdf
 - Archivo CAD de montaje.ldr
 - CSV de piezas
-- programa.sb3
+- programa EchidnaML.sb3
 - Gif animado montaje
 - Imagen del proyecto
 
 
 # Autores
 El autor de los proyectos es Jorge Lobo.  
+
+
 Colaboradores:   
-Xabier Rosas  
-Juan David Rodriguez  
-Jose Pujol
+- Xabier Rosas  
+- Juan David Rodriguez  
+- Jose Pujol
