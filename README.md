@@ -1,2 +1,45 @@
-Proyectos sobre Echidna y Bloques de construcción
+# PROYECTO ECHIDNA BRICKS
+Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar un kit que incluya bloques de construcción y sensores y atuadores
 
+# Listado de Proyectos
+1. [Gallo Despertador](./GalloDespertador)
+2. [Estatuas musicales](./EstatuasMusicales/)
+3. [Helicóptero acelerómetro](./HelicopteroAcelerometro/)
+4. [Barrera automática](./BarreraAutomatica/)
+5. [Coche Teledirigido](./CocheTeledirigido/)
+6. [Rotografo](./Rotografo/)
+7. Puerta garaje
+8. Tendedero
+
+El objetivo es llegar a 10-15 proyectos
+
+# Piezas usadas
+El listado de piezas usadas en el proyecto es:
+
+# Electrónica
+La electrónica necesaria para deasarrollar el proyecto
+
+# Instrucciones de montaje
+Programas usados:
+- [LeoCAD](https://www.leocad.org/) para el diseño.
+- [LPub3D](https://trevorsandy.github.io/lpub3d/) para generar las instrucciones.
+
+Para realizar las instrucciones de montaje tenemos la siguiente guía
+
+# Documentacion de los proyectos
+Cada uno de los proyectos queda documentado con la siguiente informaciçṕn:
+- README explicacion del proyeto y enlaces
+- Montaje.pdf
+- Archivo CAD de montaje.ldr
+- CSV de piezas
+- programa.sb3
+- Gif animado montaje
+- Imagen del proyecto
+
+
+# Autores
+El autor de los proyectos es Jorge Lobo.  
+Colaboradores:   
+Xabier Rosas  
+Juan David Rodriguez  
+Jose Pujol
