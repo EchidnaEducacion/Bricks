@@ -8,6 +8,7 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 4. [Barrera automática](./BarreraAutomatica/README.md)
 5. [Coche Teledirigido](./CocheTeledirigido/README.md)
 6. [Rotografo](./Rotografo/README.md)
+7. [Caja Fuerte](./CajaFuerte/)
 7. Puerta garaje
 8. Tendedero
 
@@ -18,6 +19,18 @@ El listado de piezas utilizadas en el proyecto es:
 
 ## Electrónica
 [Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores y cableado.
+# Sensores y actuadores usados
+| Proyecto | 1 Joystick | 2 Acel | 3 Puls | 4 LDR | 5 Micro | 6 Temp | 7 MkMk | 8 LEDs | 9 RGB | 10 Audio | 11 servo | 12 hum | 13 dist | LML |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [Gallo Despertador](./GalloDespertador) | | | |X| | | | | | |X| | | |
+| [Estatuas musicales](./EstatuasMusicales/) | | | | |X| | | | | |X| | | |
+| [Helicóptero acelerómetro](./HelicopteroAcelerometro/) | |X| | | | | | | | |X| | | |
+| [Barrera automática](./BarreraAutomatica/) | | | | | | | |X| | |X| |X| |
+| [Coche Teledirigido](./CocheTeledirigido/) |X| | | | | | | | | |X| |X| |
+| [Rotografo](./Rotografo/) | | |X| | | | | | | |X| | | |
+| [Caja Fuerte](./CajaFuerte/) | | |X| | | | |X| | |X| | |X|
+| Puerta garaje | | | | | | | | | | | | | | |
+| Tendedero | | | | | | | | | | | | | | |
 
 ## Instrucciones de montaje
 Programas usados:
