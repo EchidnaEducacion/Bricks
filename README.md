@@ -17,16 +17,17 @@ El objetivo es llegar a 10-15 proyectos
 El listado de piezas utilizadas en el proyecto es:
 
 # Sensores y actuadores usados
-| Proyecto | 1 Joystick | 2 Acel | 3 Puls | 4 LDR | 5 Micro | 6 Temp | 7 MkMk | 8 LEDs | 9 RGB | 10 Audio | 11 servo | 12 hum | 13 dist |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| [Gallo Despertador](./GalloDespertador) | | | |X| | | | | | |X| | |
-| [Estatuas musicales](./EstatuasMusicales/) | | | | |X| | | | | |X| | |
-| [Helicóptero acelerómetro](./HelicopteroAcelerometro/) | |X| | | | | | | | |X| | |
-| [Barrera automática](./BarreraAutomatica/) | | | | | | | |X| | |X| |X|
-| [Coche Teledirigido](./CocheTeledirigido/) |X| | | | | | | | | |X| |X|
-| [Rotografo](./Rotografo/) | | |X| | | | | | | |X| | |
-| Puerta garaje | | | | | | | | | | | | | |
-| Tendedero | | | | | | | | | | | | | |
+| Proyecto | 1 Joystick | 2 Acel | 3 Puls | 4 LDR | 5 Micro | 6 Temp | 7 MkMk | 8 LEDs | 9 RGB | 10 Audio | 11 servo | 12 hum | 13 dist | LML |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [Gallo Despertador](./GalloDespertador) | | | |X| | | | | | |X| | | |
+| [Estatuas musicales](./EstatuasMusicales/) | | | | |X| | | | | |X| | | |
+| [Helicóptero acelerómetro](./HelicopteroAcelerometro/) | |X| | | | | | | | |X| | | |
+| [Barrera automática](./BarreraAutomatica/) | | | | | | | |X| | |X| |X| |
+| [Coche Teledirigido](./CocheTeledirigido/) |X| | | | | | | | | |X| |X| |
+| [Rotografo](./Rotografo/) | | |X| | | | | | | |X| | | |
+| Caja Fuerte | | |X| | | | |X| | |X| | |X|
+| Puerta garaje | | | | | | | | | | | | | | |
+| Tendedero | | | | | | | | | | | | | | |
 
 # Electrónica
 [Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores, cableaso.
