@@ -22,8 +22,8 @@ El listado de piezas utilizadas en el proyecto es:
 | [Gallo Despertador](./GalloDespertador) | | | |X| | | | | | |X| | |
 | [Estatuas musicales](./EstatuasMusicales/) | | | | |X| | | | | |X| | |
 | [Helicóptero acelerómetro](./HelicopteroAcelerometro/) | |X| | | | | | | | |X| | |
-| [Barrera automática](./BarreraAutomatica/) | | | | | | | | | | | | | |
-| [Coche Teledirigido](./CocheTeledirigido/) | | | | | | | |X| | |X| |X|
+| [Barrera automática](./BarreraAutomatica/) | | | | | | | |X| | |X| |X|
+| [Coche Teledirigido](./CocheTeledirigido/) |X| | | | | | | | | |X| |X|
 | [Rotografo](./Rotografo/) | | |X| | | | | | | |X| | |
 | Puerta garaje | | | | | | | | | | | | | |
 | Tendedero | | | | | | | | | | | | | |
