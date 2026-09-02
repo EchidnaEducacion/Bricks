@@ -6,16 +6,16 @@ Caja de apertura mecánica con bloques de construcción y la placa EchidnaBlack2
 
 ## Vídeo
 
-[![Imagen de Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBrikcs/CajaFuerte/cajafuerteYT.png)](https://youtu.be/TeTapxPNc24)
+[![Imagen de Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/CajaFuerte/cajafuerteYT.png)](https://youtu.be/TeTapxPNc24)
 
 ## Guía de montaje
 
-![Gif animado con las instrucciones paso a paso](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBrikcs/CajaFuerte/cajafuerte.gif)
+![Gif animado con las instrucciones paso a paso](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/CajaFuerte/cajafuerte.gif)
 
-[Instrucciones en PDF](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBrikcs/CajaFuerte/cajafuerte_150_DPI.pdf)
+[Instrucciones en PDF](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/CajaFuerte/cajafuerte_150_DPI.pdf)
 
 ## Proyecto en EchidnaML
 
-* [Archivo .sb3: pulsadores](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBrikcs/CajaFuerte/caja%20fuerte%201.sb3)
-* [Archivo .sb3: clave](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBrikcs/CajaFuerte/caja%20fuerte%202.sb3)
-* [Archivo .sb3: machine learning](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBrikcs/CajaFuerte/caja%20fuerte%203.sb3)
+* [Archivo .sb3: pulsadores](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/CajaFuerte/caja%20fuerte%201.sb3)
+* [Archivo .sb3: clave](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/CajaFuerte/caja%20fuerte%202.sb3)
+* [Archivo .sb3: machine learning](https://github.com/lobotic/Proyectitos/blob/master/Echidna/EchidnaBricks/CajaFuerte/caja%20fuerte%203.sb3)
