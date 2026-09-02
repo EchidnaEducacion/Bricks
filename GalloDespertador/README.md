@@ -1,20 +1,25 @@
 # Gallo Despertador
 
-![Imagen del gallo construido](https://github.com/lobotic/Proyectitos/blob/master/Echidna/GalloDespertador/gallodespertador09.png)
+Este proyecto consiste en la construcción de un gallo con bloques de construcción que mueve las alas y canta cuando amanece. La estructura se basa en piezas de un kit clásico, combinadas con engranajes accionados por un *servomotor*.  
+La *LDR* (sensor de luz) detecta el ciclo día–noche: durante la oscuridad el sistema permanece en espera y, cuando la luz supera el umbral de amanecer, el gallo se activa.
 
-Este proyecto consiste en la construcción de un gallo con bloques de construcción que mueve las alas y canta cuando amanece. La estructura se basa en piezas de un kit clásico, combinadas con engranajes accionados por un servomotor.
-La LDR (sensor de luz) detecta el ciclo día–noche: durante la oscuridad el sistema permanece en espera y, cuando la luz supera el umbral de amanecer, el gallo se activa.
+Sensores: LDR
 
-## Vídeo
+Actuadores: Servomotor de posición
 
-[![Imagen de Youtube](https://github.com/lobotic/Proyectitos/blob/master/Echidna/GalloDespertador/gallodespertadorYT.png)](https://youtu.be/7ptqQNWfK_w)
+![Imagen del gallo construido](gallodespertador09.png)
 
 ## Guía de montaje
 
-![Gif animado con las instrucciones paso a paso](https://github.com/lobotic/Proyectitos/blob/master/Echidna/GalloDespertador/gallodespertador.gif)
+[Instrucciones en PDF](gallodespertador.pdf)
 
-[Instrucciones en PDF](https://github.com/lobotic/Proyectitos/blob/master/Echidna/GalloDespertador/gallodespertador.pdf)
+[Archivo CAD montaje](gallodespertador.ldr)
+
 
 ## Proyecto en EchidnaML
 
-[Descarga el archivo .sb3 para EchidnaML](https://github.com/lobotic/Proyectitos/blob/master/Echidna/GalloDespertador/Gallo-despertador.sb3)
+[Archivo .sb3 para EchidnaML](Gallo-despertador.sb3)
+
+## Vídeo
+
+[![Enlace a vídeo de Youtube](gallodespertadorYT.png)](https://youtu.be/7ptqQNWfK_w)

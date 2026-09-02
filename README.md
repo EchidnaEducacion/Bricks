@@ -13,20 +13,20 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 
 El objetivo es llegar a 10-15 proyectos
 
-# Piezas usadas
+## Piezas usadas
 El listado de piezas utilizadas en el proyecto es:
 
-# Electrónica
-[Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores, cableado.
+## Electrónica
+[Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores y cableado.
 
-# Instrucciones de montaje
+## Instrucciones de montaje
 Programas usados:
 - [LeoCAD](https://www.leocad.org/) para generar el diseño CAD.
 - [LPub3D](https://trevorsandy.github.io/lpub3d/) para generar las instrucciones.
 
 Para realizar las instrucciones de montaje tenemos la siguiente guía
 
-# Documentacion de los proyectos
+## Documentacion de los proyectos
 Cada uno de los proyectos queda documentado con la siguiente informaciçṕn:
 - README explicacion del proyeto y enlaces
 - Montaje.pdf
@@ -37,7 +37,7 @@ Cada uno de los proyectos queda documentado con la siguiente informaciçṕn:
 - Imagen del proyecto
 
 
-# Autores
+## Autores
 El autor de los proyectos es Jorge Lobo.  
 
 
