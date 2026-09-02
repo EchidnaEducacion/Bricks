@@ -8,8 +8,9 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 4. [Barrera automática](./BarreraAutomatica/)
 5. [Coche Teledirigido](./CocheTeledirigido/)
 6. [Rotografo](./Rotografo/)
-7. Puerta garaje
-8. Tendedero
+7. [Caja Fuerte](./CajaFuerte/
+8. Puerta garaje
+9. Tendedero
 
 El objetivo es llegar a 10-15 proyectos
 
