@@ -8,7 +8,7 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 4. [Barrera automática](./BarreraAutomatica/)
 5. [Coche Teledirigido](./CocheTeledirigido/)
 6. [Rotografo](./Rotografo/)
-7. [Caja Fuerte](./CajaFuerte/
+7. [Caja Fuerte](./CajaFuerte/)
 8. Puerta garaje
 9. Tendedero
 
