@@ -25,7 +25,7 @@ El listado de piezas utilizadas en el proyecto es:
 | [Barrera automática](./BarreraAutomatica/) | | | | | | | |X| | |X| |X| |
 | [Coche Teledirigido](./CocheTeledirigido/) |X| | | | | | | | | |X| |X| |
 | [Rotografo](./Rotografo/) | | |X| | | | | | | |X| | | |
-| Caja Fuerte | | |X| | | | |X| | |X| | |X|
+| [Caja Fuerte](./CajaFuerte/) | | |X| | | | |X| | |X| | |X|
 | Puerta garaje | | | | | | | | | | | | | | |
 | Tendedero | | | | | | | | | | | | | | |
 
