@@ -15,9 +15,11 @@ Actuadores: Servomotor de posición
 
 - [Archivo CAD montaje](gallodespertador.ldr)
 
+- [Gif animado del montaje](gallodespertador.gif)
+
 - Listado de piezas
 
-- [Gif animado del montaje](gallodespertador.gif)
+
 
 
 ## Proyecto en EchidnaML
