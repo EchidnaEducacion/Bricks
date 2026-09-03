@@ -11,11 +11,13 @@ Actuadores: Servomotor de posición
 
 ## Guía de montaje
 
-[Instrucciones en PDF](gallodespertador.pdf)
+- [Instrucciones en PDF](gallodespertador.pdf)
 
-[Archivo CAD montaje](gallodespertador.ldr)
+- [Archivo CAD montaje](gallodespertador.ldr)
 
-Listado de piezas
+- Listado de piezas
+
+- [Gif animado del montaje](gallodespertador.gif)
 
 
 ## Proyecto en EchidnaML
