@@ -37,7 +37,7 @@ Programas usados:
 - [LeoCAD](https://www.leocad.org/) para generar el diseño CAD.
 - [LPub3D](https://trevorsandy.github.io/lpub3d/) para generar las instrucciones.
 
-Para realizar las instrucciones de montaje tenemos la siguiente guía
+Para realizar las instrucciones de montaje tenemos la siguiente [guía](./guiaCAD/GuiaCAD.md)
 
 ## Documentacion de los proyectos
 Cada uno de los proyectos queda documentado con la siguiente informaciçṕn:
