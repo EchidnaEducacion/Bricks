@@ -15,7 +15,9 @@ En el juego, el helicóptero se desplaza por la pantalla para esquivar patos que
 
 ## Archivo EchidnaML
 
-[Descargar sb3](Helic%C3%B3ptero%20Aceler%C3%B3metro.sb3)
+- [Archivo sb3](Helic%C3%B3ptero%20Aceler%C3%B3metro.sb3)
+- [Archivo sb3 control maqueta](HelicopteroMaqueta.sb3)
+
 
 ## Vídeo
 
