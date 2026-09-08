@@ -19,9 +19,6 @@ Actuadores: Servomotor de posición
 
 - Listado de piezas
 
-
-
-
 ## Proyecto en EchidnaML
 
 [Archivo .sb3 para EchidnaML](Gallo-despertador.sb3)
