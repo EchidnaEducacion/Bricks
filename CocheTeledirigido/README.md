@@ -12,6 +12,8 @@ El control del vehículo se realiza con el joystick integrado en la EchidnaBlack
 
 - [Instrucciones en PDF](CocheTeledirigidoLPub3D_150_DPI.pdf)
 
+- [Listado de piezas](CocheTeledirigido.cvs)
+
 ## Proyecto en EchidnaML
 
 - [Archivo .sb3 para EchidnaML](CocheTeledirigido.sb3)

@@ -16,7 +16,7 @@ Actuadores: Servomotor de posición
 
 - [Gif animado del montaje](CajaFuerte/cajafuerte.gif)
 
-- Listado de piezas
+- [Listado de piezas](cajafuerte.cvs)
 
 ## Proyecto en EchidnaML
 
