@@ -111,23 +111,26 @@ El paquete se puede descargar desde la página de packs de Philo:
 
 [Philo — Parts Packs](https://philohome.com/studio/packs.htm)
 
-En esa página buscamos:
+En esa página buscamos **Third Party motors pack**, que, si no ha cambiado, estará disponible en este [enlace](https://drive.google.com/file/d/1z4_wFoIKTDgNKI7vWfYE9pcI3qlHtbjX/view).
 
-**Third Party motors pack**, que si no ha cambiado estará en este [enlace](https://drive.google.com/file/d/1z4_wFoIKTDgNKI7vWfYE9pcI3qlHtbjX/view)
+Descargamos el archivo y lo descomprimimos.
 
-Descargamos el archivo y lo descomprimiremos.
+Desde la consola entramos en la carpeta `CustomParts` que hemos descomprimido y copiamos los archivos de `geekservo` a la biblioteca de LDraw.
 
-Desde la consola entramos en el directorio que hemos descomprimido y copiamos los archivos de geekservo a la librería de LDraw. Primero creamos una carpeta específica para estas piezas dentro de la biblioteca de piezas no oficiales de LDraw:
+Para que **LeoCAD** pueda utilizar estas piezas, las copiamos directamente a la carpeta `parts`:
+
+```bash
+cp parts/geekservo1*.dat ~/LDraw/parts/
+```
+
+Para que **LPub3D** pueda utilizarlas, también las copiamos a su estructura de piezas no oficiales:
 
 ```bash
 mkdir -p ~/LDraw/unofficial/CustomParts/parts
-```
-
-A continuación copiamos los archivos necesarios para geekservo:
-
-```bash
 cp parts/geekservo1*.dat ~/LDraw/unofficial/CustomParts/parts/
 ```
+
+De esta forma, los archivos necesarios para el bloque `geekservo1` estarán disponibles tanto para LeoCAD como para LPub3D.
 
 Al abrir LeoCAD y actualizar la biblioteca de piezas, los bloques de servomotor **geekservo** estarán disponibles en la sección **Electric**.
 
@@ -156,8 +159,16 @@ Aunque probablemente esto no baste para que reconozca las piezas y haga falta ca
 
 ![Search Directory](lpublsearchdirectory.png)
 
+
 Aparecerá probablemente la ruta ~/LDraw/models
 
 ![Search Directory](searchdirectories2.png)
 
 Tendras que añadir el directorio raíz ~/LDraw para que reconozca los bloques de unofficial/CustomParts
+
+### 4.4. Bloques de servomotores
+LeoCAD y LPub3D no registran las piezas personalizadas desde los mismos lugares, así que tendremos que ejecutar este comando para que nos funcione en LPub3D:
+
+```bash
+cp parts/geekservo1*.dat ~/LDraw/unofficial/CustomParts/parts/
+```
