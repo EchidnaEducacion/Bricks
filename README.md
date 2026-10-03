@@ -15,7 +15,19 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 El objetivo es llegar a 10-15 proyectos
 
 ## Piezas usadas
-El listado de piezas utilizadas en el proyecto es: [Piezas usadas](./Piezas_usadas.md)
+El listado de piezas utilizadas en el proyecto es: [Piezas usadas](./Piezas_usadas.md) (también como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv))
+
+Para cada pieza (Part ID + color) se indica:
+- **Quantity**: la mayor cantidad usada en un mismo proyecto.
+- **Total**: la suma de las cantidades usadas en todos los proyectos.
+
+Ambos archivos se generan automáticamente a partir de los CSV de piezas de cada proyecto. Si se añade un proyecto nuevo o cambia algún CSV, hay que regenerarlos desde la raíz del repositorio con:
+
+```bash
+python3 scripts/piezas_usadas.py
+```
+
+No hay que editarlos a mano: los cambios se perderían al regenerarlos.
 
 ## Electrónica
 [Electrónica](./Electronica/README.md) necesaria para desarrollar el proyecto: sensores, actuadores y cableado.

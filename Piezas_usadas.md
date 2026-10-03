@@ -5,6 +5,8 @@ Listado unificado de las piezas de todos los proyectos, generado a partir de los
 - **Quantity**: mayor cantidad usada en un mismo proyecto.
 - **Total**: suma de las cantidades usadas en todos los proyectos.
 
+Descarga como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv)
+
 | Part Name | Color | Quantity | Total | Part ID | Color Code |
 |---|---|---:|---:|---|---:|
 | Technic Gear 8 Tooth Reinforced | Light Grey | 1 | 1 | 10928.dat | 7 |
@@ -81,3 +83,5 @@ Listado unificado de las piezas de todos los proyectos, generado a partir de los
 | Plate 2 x 4 with Square Underside Studholes | Green | 1 | 1 | u8200.dat | 2 |
 
 **72 piezas distintas, 196 piezas en total.**
+
+> Archivo generado con `python3 scripts/piezas_usadas.py`. No editar a mano.
