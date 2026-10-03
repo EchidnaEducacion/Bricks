@@ -9,6 +9,8 @@ Diseñamos un dispositivo para crear arte en espiral
 
 - [Gif animado con las instrucciones paso a paso](rot%C3%B3grafol.gif)
 
+- [Archivo CAD montaje](rot%C3%B3grafo.ldr)
+
 - [Lista de piezas](rotografo.cvs)
 
 ## Proyecto en EchidnaML

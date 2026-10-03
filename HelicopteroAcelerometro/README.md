@@ -13,6 +13,8 @@ En el juego, el helicóptero se desplaza por la pantalla para esquivar patos que
 
 - [Instrucciones PDF](HelicopteroAcelerometroLPub3D.pdf)
 
+- [Archivo CAD montaje](HelicopteroAcelerometro.ldr)
+
 - [Lista de piezas](HelicopteroAcelerometroLPub3D.cvs)
 
 ## Archivo EchidnaML

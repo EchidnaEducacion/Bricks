@@ -14,15 +14,15 @@ Actuadores: Servomotor de posición
 
 - [Archivo CAD montaje](cajafuerte.ldr)
 
-- [Gif animado del montaje](CajaFuerte/cajafuerte.gif)
+- [Gif animado del montaje](cajafuerte.gif)
 
 - [Listado de piezas](cajafuerte.cvs)
 
 ## Proyecto en EchidnaML
 
 - [Archivo .sb3 pulsadores](caja%20fuerte%201.sb3)
-- [Archivo .sb3 clave](caja%20fuerte%202.sb3)
-- [Archivo .sb3: machine learning](caja%20fuerte%203.sb3)
+- [Archivo .sb3 clave](Caja%20Fuerte%202.sb3)
+- [Archivo .sb3: machine learning](Caja%20Fuerte%203.sb3)
 
 ## Vídeo
 

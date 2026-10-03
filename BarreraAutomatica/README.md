@@ -14,7 +14,7 @@ Actuadores: Servomotor de posición
 
 - [Instrucciones en PDF](BarreraAutomatica.pdf)
 
-- [Archivo CAD montaje](BarreraAutomatica.gif.ldr)
+- [Archivo CAD montaje](BarreraAutomatica.ldr)
 
 - [Gif animado del montaje](BarreraAutomatica.gif)
 
