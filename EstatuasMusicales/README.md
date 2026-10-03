@@ -20,7 +20,7 @@ Actuadores: Servomotor contínuo
 
 - [Gif animado del montaje](juegodelasestatua.gif)
 
-- [Listado de piezas](juegoestatuas.cvs)
+- [Listado de piezas](juegoestatuas.csv)
 
 ## Proyecto en EchidnaML
 

@@ -11,7 +11,7 @@ Diseñamos un dispositivo para crear arte en espiral
 
 - [Archivo CAD montaje](rot%C3%B3grafo.ldr)
 
-- [Lista de piezas](rotografo.cvs)
+- [Lista de piezas](rotografo.csv)
 
 ## Proyecto en EchidnaML
 

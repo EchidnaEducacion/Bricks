@@ -18,7 +18,7 @@ Actuadores: Servomotor de posición
 
 - [Gif animado del montaje](BarreraAutomatica.gif)
 
-- [Listado de piezas](BarreraAutomatica.cvs)
+- [Listado de piezas](BarreraAutomatica.csv)
 
 ## Proyecto en EchidnaML
 
