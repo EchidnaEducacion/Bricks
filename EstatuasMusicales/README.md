@@ -8,7 +8,7 @@ El proyecto incluye además una guía de construcción paso a paso creada con Le
 
 Sensores: micrófono
 
-Actuadores: Servomotor contínuo
+Actuadores: Servomotor continuo
 
 ![Imagen de las estatuas](juegoestatuasportada.png)
 

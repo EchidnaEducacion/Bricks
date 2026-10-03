@@ -2,7 +2,7 @@
 
 ## 1. Crear el directorio para la biblioteca LDraw
 
-Antes de instalar LeoCAD, vamos a preparar la biblioteca de piezas en formato digital **LDraw**. LDraw es un formato un estándarde bloques de construcción digitales.
+Antes de instalar LeoCAD, vamos a preparar la biblioteca de piezas en formato digital **LDraw**. LDraw es un formato estándar de bloques de construcción digitales.
 
 Tendremos una única biblioteca que posteriormente podrán utilizar tanto LeoCAD como LPub3D, y la estructura será algo similar a:
 

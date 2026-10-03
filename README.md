@@ -9,8 +9,8 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 5. [Coche Teledirigido](./CocheTeledirigido/README.md)
 6. [Rotografo](./Rotografo/README.md)
 7. [Caja Fuerte](./CajaFuerte/README.md)
-7. Puerta garaje
-8. Tendedero
+8. Puerta garaje
+9. Tendedero
 
 El objetivo es llegar a 10-15 proyectos
 
@@ -40,8 +40,8 @@ Programas usados:
 Para realizar las instrucciones de montaje tenemos la siguiente [guía de instalación de los programas](./guiaCAD/GuiaCAD.md)
 
 ## Documentacion de los proyectos
-Cada uno de los proyectos queda documentado con la siguiente informaciçṕn:
-- README explicacion del proyeto y enlaces
+Cada uno de los proyectos queda documentado con la siguiente información:
+- README explicación del proyecto y enlaces
 - Montaje.pdf
 - Archivo CAD de montaje.ldr
 - CSV de piezas

@@ -1,6 +1,6 @@
 # Caja Fuerte
 
-Caja de apertura mecánica con bloques de construcción y la placa EchidnaBlack2. El modelo se abre gracias a un engranake que arrastra una base dentada. Se proponen tres métodos de apertura diferente: mediante un pulsador de apertura y otro de cierre, mediante clave con los conectores MKMK y mediante reconocimiento facial con un modelo de imágenes de LearningML.
+Caja de apertura mecánica con bloques de construcción y la placa EchidnaBlack2. El modelo se abre gracias a un engranaje que arrastra una base dentada. Se proponen tres métodos de apertura diferente: mediante un pulsador de apertura y otro de cierre, mediante clave con los conectores MKMK y mediante reconocimiento facial con un modelo de imágenes de LearningML.
 
 Sensores: Pulsadores
 
