@@ -10,7 +10,7 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 6. [Rotografo](./Rotografo/README.md)
 7. [Caja Fuerte](./CajaFuerte/README.md)
 8. Puerta garaje
-9. Tendedero
+9. [Tendedero](./Tendedero/README.md)
 
 El objetivo es llegar a 10-15 proyectos
 
@@ -42,7 +42,7 @@ No hay que editarlos a mano: los cambios se perderían al regenerarlos.
 | [Rotografo](./Rotografo/) | | |X| | | | | | | |X| | | |
 | [Caja Fuerte](./CajaFuerte/) | | |X| | | | |X| | |X| | |X|
 | Puerta garaje | | | | | | | | | | | | | | |
-| Tendedero | | | | | | | | | | | | | | |
+| [Tendedero](./Tendedero/) | | | | | | | | | | |X|X| | |
 
 ## Instrucciones de montaje
 Programas usados:
