@@ -17,6 +17,8 @@ El objetivo es llegar a 10-15 proyectos
 ## Piezas usadas
 El listado de piezas utilizadas en el proyecto es: [Piezas usadas](./Piezas_usadas.md) (también como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv))
 
+Para montar cualquiera de los proyectos (uno cada vez) hacen falta **173 piezas** de 77 tipos distintos.
+
 Para cada pieza (Part ID + color) se indica:
 - **Quantity**: la mayor cantidad usada en un mismo proyecto.
 - **Total**: la suma de las cantidades usadas en todos los proyectos.

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Genera Piezas_usadas.csv y Piezas_usadas.md a partir de los CSV de piezas de cada proyecto.
+"""Genera Piezas_usadas.csv y Piezas_usadas.md a partir de los CSV de piezas de cada proyecto
+y actualiza en README.md el número de piezas necesarias.
 
 Uso (desde cualquier directorio):
     python3 scripts/piezas_usadas.py
@@ -61,13 +62,14 @@ def escribir_csv(piezas):
             f.write(",".join(valores) + "\n")
 
 
-def escribir_md(piezas, total):
+def escribir_md(piezas, necesarias):
     lineas = [
         "# Piezas usadas",
         "",
         "Listado unificado de las piezas de todos los proyectos, generado a partir de los CSV de cada proyecto.",
         "",
-        "- **Quantity**: mayor cantidad usada en un mismo proyecto.",
+        "- **Quantity**: mayor cantidad usada en un mismo proyecto"
+        " (las que hacen falta para montar cualquier proyecto, uno cada vez).",
         "- **Total**: suma de las cantidades usadas en todos los proyectos.",
         "",
         "Descarga como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv)",
@@ -78,7 +80,12 @@ def escribir_md(piezas, total):
     lineas += ["| " + " | ".join(str(v) for v in fila) + " |" for fila in filas(piezas)]
     lineas += [
         "",
-        f"**{len(piezas)} piezas distintas, {total} piezas en total.**",
+        "**Resumen:**",
+        "",
+        f"- **{necesarias} piezas necesarias** para montar cualquier proyecto (uno cada vez):"
+        " suma de la columna Quantity.",
+        f"- **{len(piezas)} tipos de pieza distintos**: filas de la tabla"
+        " (cada combinación de pieza y color).",
         "",
         "> Archivo generado con `python3 scripts/piezas_usadas.py`. No editar a mano.",
         "",
@@ -87,13 +94,29 @@ def escribir_md(piezas, total):
         f.write("\n".join(lineas))
 
 
+def actualizar_readme(piezas, necesarias):
+    ruta = os.path.join(RAIZ, "README.md")
+    with open(ruta, encoding="utf-8") as f:
+        texto = f.read()
+    texto, n = re.subn(
+        r"hacen falta \*\*\d+ piezas\*\* de \d+ tipos distintos",
+        f"hacen falta **{necesarias} piezas** de {len(piezas)} tipos distintos",
+        texto,
+    )
+    assert n == 1, "No se encuentra en README.md la frase con el número de piezas"
+    with open(ruta, "w", encoding="utf-8") as f:
+        f.write(texto)
+
+
 def main():
     piezas, suma_origen = leer_piezas()
     total = sum(p["total"] for p in piezas.values())
     assert total == suma_origen, "La suma de Total no coincide con los CSV de origen"
+    necesarias = sum(p["max"] for p in piezas.values())
     escribir_csv(piezas)
-    escribir_md(piezas, total)
-    print(f"{len(piezas)} piezas distintas, {total} piezas en total")
+    escribir_md(piezas, necesarias)
+    actualizar_readme(piezas, necesarias)
+    print(f"{necesarias} piezas necesarias, {len(piezas)} tipos de pieza distintos")
 
 
 if __name__ == "__main__":

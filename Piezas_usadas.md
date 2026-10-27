@@ -2,7 +2,7 @@
 
 Listado unificado de las piezas de todos los proyectos, generado a partir de los CSV de cada proyecto.
 
-- **Quantity**: mayor cantidad usada en un mismo proyecto.
+- **Quantity**: mayor cantidad usada en un mismo proyecto (las que hacen falta para montar cualquier proyecto, uno cada vez).
 - **Total**: suma de las cantidades usadas en todos los proyectos.
 
 Descarga como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv)
@@ -87,6 +87,9 @@ Descarga como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv)
 | Electric Servo Motor Brick 5 x 2 x 3 | Fabuland Lime | 1 | 1 | geekservo1.dat | 510 |
 | Plate 2 x 4 with Square Underside Studholes | Green | 1 | 1 | u8200.dat | 2 |
 
-**77 piezas distintas, 232 piezas en total.**
+**Resumen:**
+
+- **173 piezas necesarias** para montar cualquier proyecto (uno cada vez): suma de la columna Quantity.
+- **77 tipos de pieza distintos**: filas de la tabla (cada combinación de pieza y color).
 
 > Archivo generado con `python3 scripts/piezas_usadas.py`. No editar a mano.
