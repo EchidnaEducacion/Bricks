@@ -11,13 +11,14 @@ Proyectos sobre Echidna y Bloques de construcción con el objetivo de realizar u
 7. [Caja Fuerte](./CajaFuerte/README.md)
 8. Puerta garaje
 9. [Tendedero](./Tendedero/README.md)
+10. [Calavera](./Calavera/README.md)
 
 El objetivo es llegar a 10-15 proyectos
 
 ## Piezas usadas
 El listado de piezas utilizadas en el proyecto es: [Piezas usadas](./Piezas_usadas.md) (también como hoja de cálculo: [Piezas_usadas.csv](./Piezas_usadas.csv))
 
-Para montar cualquiera de los proyectos (uno cada vez) hacen falta **173 piezas** de 77 tipos distintos.
+Para montar cualquiera de los proyectos (uno cada vez) hacen falta **188 piezas** de 83 tipos distintos.
 
 Para cada pieza (Part ID + color) se indica:
 - **Quantity**: la mayor cantidad usada en un mismo proyecto.
@@ -45,6 +46,7 @@ No hay que editarlos a mano: los cambios se perderían al regenerarlos.
 | [Caja Fuerte](./CajaFuerte/) | | |X| | | | |X| | |X| | |X|
 | Puerta garaje | | | | | | | | | | | | | | |
 | [Tendedero](./Tendedero/) | | | | | | | | | | |X|X| | |
+| [Calavera](./Calavera/) | | | | | | | | | | |X| | |X|
 
 ## Instrucciones de montaje
 Programas usados:
